@@ -1,0 +1,17 @@
+a: 2
+b: 8
+spring:
+  output:
+    ansi:
+      enabled: ALWAYS
+logging:
+  level:
+    root: INFO
+    co:
+      develhope:
+        loggingServices:
+          Services: DEBUG
+
+
+
+
